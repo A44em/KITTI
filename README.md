@@ -1,3 +1,3 @@
-# KITTI
-### This project is to explore KITTI dataset and utilize it
-#### The repo contains a notebook that downloads a sample and explore it
+# KITTI & RadarScenes
+### This project is to explore KITTI & RadarScenes datasets and utilize them
+#### The repo contains a notebook & python files that downloads a sample and explore it
